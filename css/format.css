@@ -1,10 +1,33 @@
+
 img{
-	padding: 2%;
-	margin-left: 3%;
-	margin-right: 3%;
+	padding-top: 50px;
+	padding-right: 5%;
+	padding-left: 5%;
 	height: 400px;
 }
 
-body{
-	background-color: #FCF4F0;
+#brew { 
+	background-color: #C7C19D;
 }
+
+body{
+	background-color: #DED0C0;
+	/*D19857;
+	/*FCF4F0;*/
+}
+
+th {
+	padding: 20%;
+}
+
+table,th,td{
+	text-indent: 5px;
+	
+	border-collapse: collapse;
+}
+table{
+	margin-left:20%;
+	padding: 400px;
+	border: 1px solid black;
+}
+
